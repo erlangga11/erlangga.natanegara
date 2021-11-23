@@ -1,4 +1,2 @@
 Ini untuk bilangan prima
 line 2 untuk commit 2
-line 3 untuk commit 3
-line 4 untuk commit 4
